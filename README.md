@@ -5,4 +5,4 @@ Mini Proyecto Mi Card HTML  y CSS
 
 Quieres ver mi Web, entra Aqui: URL: https://darieladolfo.github.io/Mi_Card/
 
-![ ](img/img1.png)
+![ ](img/img.jpeg)
